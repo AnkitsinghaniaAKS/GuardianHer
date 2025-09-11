@@ -29,7 +29,11 @@
 ### Prerequisites
 - Android Studio (latest version)  
 - JDK 17+  
-- Gradle installed  
+- Gradle installed
+
+  ## 📥 Download
+
+You can download the latest APK from the [Releases](https://github.com/AnkitsinghaniaAKS/GuardianHer/releases) section.
 
 ### Installation
 1. Clone the repo:
