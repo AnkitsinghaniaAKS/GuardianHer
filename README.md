@@ -31,7 +31,7 @@
 - JDK 17+  
 - Gradle installed
 
-  ## 📥 Download
+ ## 📥 Download
 
 You can download the latest APK from the [Releases](https://github.com/AnkitsinghaniaAKS/GuardianHer/releases) section.
 
