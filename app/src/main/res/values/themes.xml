@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+<!--    <style name="Theme.WomenSecurityApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+    <style name="Theme.WomenSecurityApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+    <!-- Primary colors -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+
+        <!-- Customize other attributes as needed -->
+    </style>
+
+</resources>
